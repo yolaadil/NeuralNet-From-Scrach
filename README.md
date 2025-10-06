@@ -1,26 +1,21 @@
-# ================================================================
 # 🧠 Neural Network from Scratch
-# ================================================================
-# An educational notebook that builds a simple neural network from scratch using NumPy,
-# trained on the Iris dataset. The project helps learners understand how neural networks
-# work internally — including forward propagation, loss computation, backpropagation,
-# and gradient descent — without using frameworks like TensorFlow or PyTorch.
-#
-# Author: Wala Elsharif
-# Type: Educational | Neural Networks | AI Fundamentals
-# ================================================================
+
+An educational notebook that builds a simple neural network from scratch using NumPy,
+trained on the Iris dataset. The project helps learners understand how neural networks
+work internally — including forward propagation, loss computation, backpropagation,
+and gradient descent — without using frameworks like TensorFlow or PyTorch.
 
 
-# ================================================================
+
 # 📘 Overview
-# ================================================================
-# This notebook covers:
-# - Implementing a two-layer neural network manually
-# - Training it step-by-step using NumPy
-# - Visualizing the loss curve over time
-# - Evaluating its accuracy on the Iris dataset
-#
-# You can run this notebook directly in Google Colab — it’s self-contained.
+
+ This notebook covers:
+- Implementing a two-layer neural network manually
+- Training it step-by-step using NumPy
+ - Visualizing the loss curve over time
+- Evaluating its accuracy on the Iris dataset
+
+ You can run this notebook directly in Google Colab — it’s self-contained.
 
 
 # ------------------------------------------------
